@@ -1,0 +1,2 @@
+# fredrepo
+my repository
